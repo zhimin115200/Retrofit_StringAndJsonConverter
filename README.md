@@ -1,0 +1,2 @@
+# Retrofit_StringAndJsonConverter
+## client与server以json数据格式通讯，但针对请求数据失败的情况server返回不规则的String类型数据，扩展的retrofit的响应转换器
