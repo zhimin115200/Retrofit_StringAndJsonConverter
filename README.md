@@ -1,5 +1,5 @@
 # Retrofit_StringAndJsonConverter
-## client与server以json数据格式通讯，但针对请求数据失败的情况server返回不规则的String类型数据，扩展的retrofit的响应转换器
+## client与server以json数据格式通讯，但针对特殊请求或请求数据失败的情况server返回不规则的String类型数据，扩展的retrofit的响应转换器
 
 ##使用方法
 ###step 1:初始化retrofit，在application中restApi作为全局变量：
